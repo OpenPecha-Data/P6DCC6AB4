@@ -1,0 +1,112 @@
+id: dceb7f8214b14cc99a19b4ed47dad03c
+annotation_type: index
+revision: '00001'
+annotations:
+  129fa1bd5b0840b98a8af58f4e206291:
+    work_id: W4E33AECB
+    span:
+      vol: §1
+      start: 0
+      end: 628
+  293cc79f5cfc4f68bdbf1b06e71dd091:
+    work_id: WE1E9FEB8
+    span:
+      vol: §10
+      start: 0
+      end: 662
+  4474638a832d46cc99f822226f54cdad:
+    work_id: WB51F4FFB
+    span:
+      vol: §11
+      start: 0
+      end: 1215
+  ced926d6ff0e4bf586ab8bec08a4e11c:
+    work_id: WD64BCF6A
+    span:
+      vol: §12
+      start: 0
+      end: 933
+  e545c0249e4446e98f8373454687f822:
+    work_id: W332C2E25
+    span:
+      vol: §13
+      start: 0
+      end: 1736
+  1fc139b018a64baabcb05e96f5eb4055:
+    work_id: W9EF85328
+    span:
+      vol: §14
+      start: 0
+      end: 1650
+  ec62d8822bd44d32a7268c642cb17d26:
+    work_id: WBC5AB9AB
+    span:
+      vol: §15
+      start: 0
+      end: 276
+  115fce24f6624d4093b736fcdfce745f:
+    work_id: WD1C842D5
+    span:
+      vol: §16
+      start: 0
+      end: 276
+  75c4c349f10a4aa8958d590baab86f79:
+    work_id: W526B8271
+    span:
+      vol: §17
+      start: 0
+      end: 177
+  6aa0bb7d3f9d49d296cbf226106ee530:
+    work_id: W47BBABB8
+    span:
+      vol: §18
+      start: 0
+      end: 5
+  f5865d6691fb4ad59b224df0dafae28b:
+    work_id: W5C592B2C
+    span:
+      vol: §2
+      start: 0
+      end: 434
+  9357dd74204b46fba0ac3ca13a8cdacd:
+    work_id: W224D644A
+    span:
+      vol: §3
+      start: 0
+      end: 612
+  07c7a05e6d8340cdb3ab495aedf627b7:
+    work_id: W2DD19DB6
+    span:
+      vol: §4
+      start: 0
+      end: 604
+  12131a9f47f54bf4a3a1b627ff4c3e4b:
+    work_id: W2D100DB4
+    span:
+      vol: §5
+      start: 0
+      end: 495
+  66193cd67b304353a219d0c52b9e7a4c:
+    work_id: W0048D84C
+    span:
+      vol: §6
+      start: 0
+      end: 441
+  e2780102723048019d8c8cdf9dc6dbae:
+    work_id: W733E9092
+    span:
+      vol: §7
+      start: 0
+      end: 659
+  fe13c19c67074a5896f38c8f64bfd474:
+    work_id: W9365342B
+    span:
+      vol: §8
+      start: 0
+      end: 390
+  3f5b75be2832437e9dac3ee77d7aba71:
+    work_id: W2F145F2B
+    span:
+      vol: §9
+      start: 0
+      end: 430
